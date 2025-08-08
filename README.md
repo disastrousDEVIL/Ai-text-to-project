@@ -2,17 +2,22 @@
 
 # AI Text to Project
 
-**AI Text to Project** is a lightweight tool that parses structured AI-generated text (e.g. from Claude, ChatGPT) into a real project folder — complete with files, directories, and actual code/content.  
-Perfect for developers who use AI to prototype and want to avoid manual copy-pasting.
+**AI Text to Project** is a no-BS tool that takes AI-generated code dumps (from ChatGPT, Claude, etc.) and instantly turns them into a real project folder — files, folders, and actual code, all set up.
+Built for devs who prototype fast and don’t have time to copy-paste file by file.
+
+
 
 ---
 
 ## 🚀 Features
 
-- Converts annotated AI responses into full project structures
-- Automatically creates files, directories, and adds code
-- Supports **any file type** – not just Python
-- Works from raw multiline input in the terminal or editor
+- Reads structured AI output (you know, the #folder/file.ext + code + --- format)
+
+- Auto-builds the whole project — folders, files, and all their content
+
+- Works with any file type — Python, JS, HTML, config files, you name it
+
+- Run it from anywhere — paste raw multiline text in terminal, or feed it from your editor
 
 ---
 
